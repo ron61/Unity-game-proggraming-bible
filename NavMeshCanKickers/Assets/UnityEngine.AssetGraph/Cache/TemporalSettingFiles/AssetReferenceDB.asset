@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: Assembly-CSharp-Editor:UnityEngine.AssetGraph:AssetReferenceDatabase
+  m_assets:
+  - m_assetDatabaseId: 94d8ea944aaaf4a46814cb36e90d7bcb
+    m_importFrom: Assets/UnityEngine.AssetGraph/Cache
+    m_exportTo: 
+    m_variantName: 
+    m_data: []
+  - m_assetDatabaseId: b90ea30608d15dc45b71a04f9fd6ec6d
+    m_importFrom: Assets/UnityEngine.AssetGraph/Cache/TemporalSettingFiles
+    m_exportTo: 
+    m_variantName: 
+    m_data: []
+  - m_assetDatabaseId: 64c0d646e1750d74d8d275a11a21425e
+    m_importFrom: Assets/UnityEngine.AssetGraph/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+    m_data: []
+  - m_assetDatabaseId: cb3de7a7a5d204441915ba5c49581be2
+    m_importFrom: Assets/UnityEngine.AssetGraph
+    m_exportTo: 
+    m_variantName: 
+    m_data: []
+  m_version: 2
